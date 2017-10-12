@@ -1,0 +1,31 @@
+{
+	"ImportPath": "github.com/snarlysodboxer/return-200",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/didip/tollbooth",
+			"Rev": "605330a2a1a74c6535f5a4d5e8ddab4e024015c4"
+		},
+		{
+			"ImportPath": "github.com/didip/tollbooth/config",
+			"Rev": "605330a2a1a74c6535f5a4d5e8ddab4e024015c4"
+		},
+		{
+			"ImportPath": "github.com/didip/tollbooth/errors",
+			"Rev": "605330a2a1a74c6535f5a4d5e8ddab4e024015c4"
+		},
+		{
+			"ImportPath": "github.com/didip/tollbooth/libstring",
+			"Rev": "605330a2a1a74c6535f5a4d5e8ddab4e024015c4"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "075e191f18186a8ff2becaf64478e30f4545cdad"
+		},
+		{
+			"ImportPath": "golang.org/x/time/rate",
+			"Rev": "f51c12702a4d776e4c1fa9b0fabab841babae631"
+		}
+	]
+}
