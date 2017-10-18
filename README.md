@@ -1,7 +1,7 @@
 # Simply return 200, rate limited
 
 ```shell
-Usage of /tmp/go-build811007725/command-line-arguments/_obj/exe/main:
+Usage of return-200:
   -burst-limit int
         quantity of requests to allow in bursts (default 10)
   -listen-url string
